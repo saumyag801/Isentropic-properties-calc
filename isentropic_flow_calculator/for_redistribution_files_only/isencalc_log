@@ -1,0 +1,22 @@
+Error using images.internal.getImageFromFile (line 11)
+Cannot find the specified file: "5-54-min.png".
+
+Error in images.internal.imageDisplayParseInputs (line 74)
+
+
+Error in imshow (line 222)
+
+
+Error in isentropic_flow_calculator>isentropic_flow_calculator_OpeningFcn (line 60)
+
+
+Error in gui_mainfcn (line 220)
+
+
+Error in isentropic_flow_calculator (line 42)
+
+
+images:getImageFromFile:fileDoesNotExist
+Error writing to output stream.
+iostream stream error
+
